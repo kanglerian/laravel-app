@@ -2,10 +2,6 @@
 
 Halo, perkenalkan saya Lerian Febriana. Berikut adalah hasil dari pengerjaan technical brief Junior Programmer PT. Rekan Bisnis Anda
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Buatlah database dengan nama "kanglerian_db" edit di .env
+- Jalankan migration table dengan perintah "php artisan migrate"
+- Jalankan juga seeder yang sudah berisi akun "kanglerian@laravel.com dengan password lerian123" dengan perintah "php artisan db:seed"
